@@ -10,6 +10,9 @@
     },
     {
       "Claim": "mdon:@rudi@nightmare.haus"
+    },
+    {
+      "Claim": "t:rudi9719"
     }
   ],
   "IdDisclaims": [
@@ -29,11 +32,11 @@
   "Signature": {
     "Authority": "https://whosum.com",
     "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
-    "Nonce": "547d9795b22ed6aa1dc599af",
-    "Timestamp": "2023-04-06T13:29:39Z",
-    "Signature": "70c448a4d729cc72af33643f302dedc4d56fde12947d04a821c28a2c357c8bff6b0a56630bdb8b8d533975a1cdea5b317e7ebaea963120c960f76b8c431af64d3a35bf613c6a75ddc40de99785d51dec78ea0ce615331949f44226b64b49b3bfa741324606fc9442e8ada1aae5a362d8a30318e9b9bd08368876d8af3dfc50981e61baa1d220b41aa43b181abfb4e95c1db3cf72c22e9b61e90f6ad27400ea14f29977670ef5e5e3fea8559c8bde840d754a0fd2872da6d16437e8aab2bfab0fd0e790c4c5ba28142a0db9fd7dc32df4860e51df1b7597d22b1e7f91053b933233fa71ff41495785c67fda8d088ac98d6e9b58787cfd4c8193bfd798402132f7"
+    "Nonce": "362cfe4a47abf8c745fc1327",
+    "Timestamp": "2023-04-06T13:37:20Z",
+    "Signature": "5e8ad7eaa257119d56f936fdf9d661ef6582f1254b2dfa1b7789259b7935a877363d9a62ebc99b0c31b0df7f3dd582bc43bded20de83f1b28497234b201807a4e289e621b05c1ff379faad4db098f81ce18ba1d0fad919cfff60aa3f4b3b9382b0a17675b1ddf9c06c427a57fc7c77caa8a39925521f6eee3541958b57406600bfaa3b58f82d7c8806e49741f9ebba953f865e079cdbc158f94201bd9152ada0b61de561d000dae837002b0cdb40a34bbc9c1d2771b78779a81963a88331e276c1493d544ef49c14c17f0250f9dddb4a69b3f67c9d03c0b145d1cfab6a90c8a8bd3115f33c861938fd8e42dfce1295372de70d7f1bc481dd2b1e23cb16b5f40a"
   },
   "AgreedToTerms": true,
-  "ContentSha256": "a361b779187d55bc970b1212e683f5553d0dc2b324e966f8031dd52034461d25",
-  "ContentToHash": "v1|gh:rudi9719,mdon:@rudi@nightmare.haus,med:no-account,post:no-account,spout:no-account,ss:no-account,yt:@therudi9719|2023-04-06T13:25:50Z"
+  "ContentSha256": "d4d91ca96dcfb766d74dc452fac356c0ed94fbb2a75ab37021aec8192628ad7b",
+  "ContentToHash": "v1|gh:rudi9719,mdon:@rudi@nightmare.haus,med:no-account,post:no-account,spout:no-account,ss:no-account,t:rudi9719,yt:@therudi9719|2023-04-06T13:25:50Z"
 }
